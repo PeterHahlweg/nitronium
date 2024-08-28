@@ -1,0 +1,10 @@
+[package]
+name = "nitronium"
+version = "0.1.0"
+edition = "2021"
+authors = ["Peter Hahlweg <peter.github@mailbox.org>"]
+description = "A powerful oxidizing agent"
+license = "Apache-2.0 OR MIT"
+readme = "README.md"
+
+[dependencies]
